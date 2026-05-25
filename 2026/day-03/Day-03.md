@@ -1,4 +1,4 @@
-# Day 03 - Linux Commands & CLI Basics
+# Day 03 - Linux Commands & CLI
 
 CLI is one of the fastest and most secure ways to manage Linux systems.
 
